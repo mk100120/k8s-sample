@@ -1,4 +1,0 @@
-
-####
-GET http://localhost:8081/v1/hello
-Accept: application/json
